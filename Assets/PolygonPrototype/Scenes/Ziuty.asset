@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3b1dda872cc2cf49bfd1ccbb331a87e, type: 3}
+  m_Name: Ziuty
+  m_EditorClassIdentifier: 
+  PrefabToSpawn: {fileID: 1035851325533772, guid: b38180f4dd93ed945ad6e4e365f91923, type: 3}
+  ShouldRandomizeScale: 0
+  MinMaxScale: {x: 6.2023125, y: 20.075146}
+  ShouldRandomizeRotation: 0
